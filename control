@@ -1,0 +1,9 @@
+Package: com.naken.characount
+Name: Characount
+Depends: mobilesubstrate, firmware (>= 5.0)
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Adds character counter in Notes app
+Maintainer: snakeninny
+Author: snakeninny
+Section: Tweaks
